@@ -379,6 +379,10 @@ class Bulk_User_Management {
 
 		return false;
 	}
+	
+	public function invite_message(){
+		// what was supposed to happen here?
+	}
 }
 
 $Bulk_User_Management = new Bulk_User_Management();
